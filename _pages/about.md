@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey guys"
+title: "Trial run, not fully open"
 author_profile: true
 redirect_from: 
   - /about/
