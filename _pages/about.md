@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 👨🏻‍💻 I’m a PhD student in Sun Yat-sen University with major of Meteorology, supervised by Prof. Song Yang. I got B.S. and M.S. degree from Nanjing University of Information Science and Technology. My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
+
 📚 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus) 2 DaXue Road, Xiangzhou, Zhuhai, Guangdong, China
 
 Last modified: 01/05/2024
