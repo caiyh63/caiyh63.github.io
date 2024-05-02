@@ -18,8 +18,6 @@ Schematic for physical process under which the Tibetan Plateau snow depth affect
 
 
 
-青藏高原积雪物理过程图解
-
 
 Last modified: 01/05/2024
 <p hidden>
