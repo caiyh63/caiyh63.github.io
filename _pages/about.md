@@ -13,6 +13,8 @@ redirect_from:
 
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus) 2 DaXue Road, Xiangzhou, Zhuhai, Guangdong, China
 
+![Europe’s electricity generation from wind blown off course](/images/NJQX202401002_519.jpg){: .align-right width="350px"} 
+
 Last modified: 01/05/2024
 <p hidden>
   
