@@ -13,7 +13,13 @@ redirect_from:
 
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus) 2 DaXue Road, Xiangzhou, Zhuhai, Guangdong, China
 
-![Europe’s electricity generation from wind blown off course](/images/NJQX202401002_519.jpg){: .align-right width="350px"} 
+![Cai-2023-Fig13](/images/NJQX202401002_519.jpg)
+Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from <font color=Blue>Cai et al.(2023)</font> )
+
+
+
+青藏高原积雪物理过程图解
+
 
 Last modified: 01/05/2024
 <p hidden>
