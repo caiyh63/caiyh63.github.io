@@ -13,7 +13,12 @@ redirect_from:
 
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus) 2 DaXue Road, Xiangzhou, Zhuhai, Guangdong, China
 
-![Cai-2023-Fig13](/images/NJQX202401002_519.jpg){: .align-center width="400px"} 
+
+
+
+![The deep-time evolutions of aridity and dryland](/images/NJQX202401002_519.jpg) 
+
+
 
 Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from <font color=Blue>Cai et al.(2023)</font> )
 
