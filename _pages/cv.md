@@ -1,4 +1,4 @@
----
+![image](https://github.com/caiyh63/caiyh63.github.io/assets/126236549/51963b46-0371-444d-91da-94d190f3be42)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -9,56 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## 🏫 <span style="color:#1E90FF">Education</span>
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+09/2015–06/2019     B.S. in Atmospheric Sciences, Nanjing University of Information Science and Technology (NUIST), Nanjing, China  
+09/2019–06/2022	    M.S. in Meteorology, Nanjing University of Information Science and Technology (NUIST), Nanjing, China           _Advisor: Prof. Haikun Zhao_
+09/2022–Present	    Ph.D. Student in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China                             _Advisor: Prof. Song Yang_
 
-Work experience
+
+## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Tropical Cyclone Climatology:**
+Seasonality of tropical cyclone activity; Variations of rapidly intensifying typhoon
+**Tibetan Plateau:**	
+Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian climate
   
-Skills
+## 🛠️ <span style="color:#1E90FF">Skills</span>
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Computer language:** NCL (proficient), Python (advanced), Fortran (familiar), GrADS (almost forgot) and Linux & Shell (familiar) 
+**Model:** CESM-CAM (familiar) and LBM (familiar)
 
-Publications
+## 📃 <span style="color:#1E90FF">Publications</span>
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+11/2022		Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences, Nanjing, China; _Oral presentation in virtual_
+07/2023		Asia Oceania Geosciences Society 20th annual meeting (AOGS2023), Singapore; _Oral presentation_
+11/2023		The Chengdu Forum of Multi-scale Sea-land-Air Interaction and its Weather and Climate Impact, Chengdu, China; _Oral presentation_
+01/2024		American Meteorological Society 104th Annual Meeting (AMS2024), Baltimore, MD, the U.S.; _Poster presentation_ 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象）
+                Project: Synoptic-Dynamic meteorology; Re-examination items
   
-Service and leadership
+## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 ======
-* Currently signed in to 43 different slack teams
+2023 The outstanding post-graduate thesis @NUIST
+2022 The first prize of the third graduate innovation achievement exhibition @NUIST
+2019 The second prize of the China post-graduate mathematical modeling contest
+
