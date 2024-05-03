@@ -21,7 +21,7 @@ redirect_from:
 
 ![Cai-2023-Fig13](/images/NJQX202401002_519.jpg){: .align-left width="500px"}  
 
-<font color=grey>Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from </font> <font color=Blue>Cai et al.(2023)</font> </font> <font color=Blue>)</font>
+<font color=grey>Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from </font> <font color=Blue>Cai et al. (2023)</font> </font> <font color=Blue>)</font>
 
 
 
