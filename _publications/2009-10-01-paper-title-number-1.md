@@ -1,12 +1,30 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
+{% include base_path %}
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+## <span style="color:#1E90FF">Submitted</span>
+------
+1. **Cai, Y.**, S. Yang, W. Chen, J. Xu and J. Wang, 2023: Seasonal phase reversal of the genesis frequency of western North Pacific tropical cyclones from boreal summer to autumn and its variations. J. Climate, under review.
+
+### <span style="color:#1E90FF">2023</span> 
+------
+
+3. Deng, Z., S. Zhou, M. Wang, Y. **Cai, Y.** Ma, C. Yang, and Y. Sun, 2023: Changes in the midsummer extreme high-temperature events over the Yangtze River Valley associated with the thermal effect of the Tibetan Plateau and Arctic Oscillation. Atmos. Res., 293, 106911, https://doi.org/10.1016/j.atmosres.2023.106911.
+
+2. **Cai, Y.**, H. Zhao, P. J. Klotzbach, G. B. Raga, J. Xu, L. Wu, X. Han, B. He, and J. Cao, 2023: Can Tibetan Plateau snow depth influence the interannual association between tropical Indian Ocean sea surface temperatures and rapidly intensifying typhoons?  J. Climate, 36, 3781–3800, https://doi.org/10.1175/JCLI-D-22-0697.1. 
+
+### <span style="color:#1E90FF">2022</span> 
+------
+
+1. **Cai, Y.**, X. Han, H. Zhao, P. J. Klotzbach, L. Wu, G. B. Raga, and C. Wang, 2022: Enhanced predictability of rapidly intensifying tropical cyclones over the western North Pacific associated with snow depth changes over the Tibetan Plateau. J. Climate, 35, 2093–2110, https://doi.org/10.1175/jcli-d-21-0758.1. (JCR: Met. & Atmos. Sci. Q1; IF: 5.147; citation: 22)
+
+**Research Score** (From Google Scholar since 2019):
+<u>Citation: 26</u>; <u>h-index: 2</u>; <u>i10-index:1</u>
