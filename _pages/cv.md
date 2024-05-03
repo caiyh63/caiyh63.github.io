@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
----
+<hr style="border: none; background-color: #ff0000; height: 2px;"/>
 
 09/2015–06/2019     B.S. in Atmospheric Sciences, Nanjing University of Information Science and Technology (NUIST), Nanjing, China  
 
