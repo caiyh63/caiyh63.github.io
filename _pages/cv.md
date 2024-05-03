@@ -58,7 +58,7 @@ Teaching
 
 09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象）
 
-                Project: Synoptic-Dynamic meteorology; Re-examination items
+                 Project: Synoptic-Dynamic meteorology; Re-examination items
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
