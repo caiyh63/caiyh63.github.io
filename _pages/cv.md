@@ -1,6 +1,6 @@
-![image](https://github.com/caiyh63/caiyh63.github.io/assets/126236549/51963b46-0371-444d-91da-94d190f3be42)---
+---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
-======
+---
 
 09/2015–06/2019     B.S. in Atmospheric Sciences, Nanjing University of Information Science and Technology (NUIST), Nanjing, China  
 
@@ -19,8 +19,7 @@ redirect_from:
 09/2022–Present	    Ph.D. Student in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China                             _Advisor: Prof. Song Yang_
 
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
-======
-
+---
 **Tropical Cyclone Climatology:**
 
 Seasonality of tropical cyclone activity; Variations of rapidly intensifying typhoon
@@ -31,20 +30,20 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 
   
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
-======
+---
 
 **Computer language:** NCL (proficient), Python (advanced), Fortran (familiar), GrADS (almost forgot) and Linux & Shell (familiar) 
 
 **Model:** CESM-CAM (familiar) and LBM (familiar)
 
 ## 📃 <span style="color:#1E90FF">Publications</span>
-======
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
-======
+---
 11/2022		Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences, Nanjing, China; _Oral presentation in virtual_
 
 07/2023		Asia Oceania Geosciences Society 20th annual meeting (AOGS2023), Singapore; _Oral presentation_
@@ -55,13 +54,15 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 
   
 Teaching
-======
+---
+
 09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象）
 
                 Project: Synoptic-Dynamic meteorology; Re-examination items
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
-======
+---
+
 2023 The outstanding post-graduate thesis @NUIST
 
 2022 The first prize of the third graduate innovation achievement exhibition @NUIST
