@@ -20,7 +20,6 @@ redirect_from:
 **Possible mechanism of interaction between tropical SST variability and land surface processes to influence typhoon activity:** Tibetan Plateau snow depth has played an important role in weakening the correlation between rapidly intensifying tropical cyclones and tropical Indian Ocean sea surface temperatures (SST). Increased Tibetan Plateau snow depth (TPSD) promotes basinwide tropical Indian Ocean cooling through changes in geopotential heith anomalies and modulation of convection activity. In the following seasons, the weaker monsoon circulation associated with increase TPSD contributes to warm SST anomalies over the western Iindian Ocean, enhancingthe zonal contrast of Indian Ocean SST. The air-sea feedback process accelerates the growth of Indian Ocean Dipole during rapid intensification period The results of this study enhance understanding of changes in tropical cyclone intensity and have implications for seasonal forecasting of tropical cyclone  intensity over the western North Pacific basin.  This study also emphasizes the importance of Tibetan Plateau thermal forcing in atmosphere–ocean coupling.
 
 ![Cai-2023-Fig13](/images/NJQX202401002_519.jpg)
-![profile](https://github.com/caiyh63/caiyh63.github.io/assets/126236549/4d2a4323-b8fc-429e-aaab-08f9c6d73a8b)
 
 <font color=grey>Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from </font> <font color=Blue>Cai et al. (2023)</font> <font color=grey>)</font>
 
