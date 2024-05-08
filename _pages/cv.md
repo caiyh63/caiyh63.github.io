@@ -53,7 +53,7 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 01/2024		American Meteorological Society 104th Annual Meeting (AMS2024), Baltimore, MD, the U.S.; _Poster presentation_ 
 
   
-Teaching
+##  👨🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
 09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象）<br>
