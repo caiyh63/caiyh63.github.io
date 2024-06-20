@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a PhD student in Sun Yat-sen University with major of Meteorology, supervised by Prof. Song Yang. 
+👨🏻‍💻 I’m a PhD student in Sun Yat-sen University with major of Meteorology. 
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
