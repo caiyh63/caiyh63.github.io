@@ -14,6 +14,9 @@ redirect_from:
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus) 2 DaXue Road, Xiangzhou, Zhuhai, Guangdong, China
 
 
+## News
+======
+July 2024  Congratulations on obtaining the CSC scholarship
 
 ## Recent Reasearch Progress
 
@@ -25,7 +28,7 @@ redirect_from:
 
 - **On going work:** The variation of tropical cyclone seasonality
 
-Last modified: 01/05/2024
+Last modified: 24/07/2024
 
 <p hidden>
   
