@@ -16,7 +16,7 @@ redirect_from:
 
 ## News
 ======
-July 2024  Congratulations on obtaining the CSC scholarship
+07/2024  Congratulations on obtaining the CSC scholarship
 
 ## Recent Reasearch Progress
 
