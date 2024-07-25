@@ -12,7 +12,7 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-1 **Cai, Y.**, S. Yang, W. Chen, J. Xu and J. Wang, 2023: Seasonal phase reversal of the genesis frequency of western North Pacific tropical cyclones from boreal summer to autumn and its variations. _J. Climate_
+1 **Cai, Y.**, S. Yang, W. Chen, J. Xu and J. Wang, 2024: Seasonal phase reversal of the genesis frequency of western North Pacific tropical cyclones from boreal summer to autumn and its variations. _J. Climate_
 
 ### <span style="color:#1E90FF; font-size:1.5em">2023</span> 
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
