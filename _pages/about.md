@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Trial run, not fully open"
+title: "Welcome~"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨🏻‍💻 I’m a PhD student in Sun Yat-sen University with major of Meteorology. 
+👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. 
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News
-======
+
 07/2024  Congratulations on obtaining the CSC scholarship
 
 ## Recent Reasearch Progress
