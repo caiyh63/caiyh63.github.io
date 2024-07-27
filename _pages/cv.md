@@ -16,7 +16,7 @@ redirect_from:
 
 09/2019–06/2022	    M.S. in Meteorology, Nanjing University of Information Science and Technology (NUIST), Nanjing, China <br>               _Advisor: Prof. Haikun Zhao_
 
-09/2022–Present	    Ph.D. Student in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China <br>                                 _Advisor: Prof. Song Yang_
+09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China <br>                               _Advisor: Prof. Song Yang_
 
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
@@ -56,10 +56,10 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 ##  👨🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象）<br>
+09/2019–06/2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: Synoptic-Dynamic meteorology; Re-examination items
 
-Project: Synoptic-Dynamic meteorology; Re-examination items
+Project: Synoptic and Dynamic Meteorology; Re-examination Items
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
