@@ -18,6 +18,8 @@ redirect_from:
 
 09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China <br>                               _Advisor: Prof. Song Yang_
 
+11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK <br>              _Co-advisor: Dr. Kevin Hodges (Principal Research Fellow)_
+
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 **Tropical Cyclone Climatology:**
@@ -69,4 +71,9 @@ Project: Synoptic and Dynamic Meteorology; Re-examination Items
 2022 The first prize of the third graduate innovation achievement exhibition @NUIST
 
 2019 The second prize of the China post-graduate mathematical modeling contest
+
+## 💴 <span style="color:#1E90FF">Research Funding</span>
+<hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
+2024  Joint Ph.D. Training Program, China Scholarship Council
 
