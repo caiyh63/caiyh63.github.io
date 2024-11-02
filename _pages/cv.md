@@ -12,13 +12,13 @@ redirect_from:
 ## 🏫 <span style="color:#1E90FF">Education</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-09/2015–06/2019     B.S. in Atmospheric Sciences, Nanjing University of Information Science and Technology (NUIST), Nanjing, China  
+**09/2015–06/2019     B.S. in Atmospheric Sciences, Nanjing University of Information Science and Technology (NUIST), Nanjing, China**  
 
-09/2019–06/2022	    M.S. in Meteorology, Nanjing University of Information Science and Technology (NUIST), Nanjing, China <br>               _Advisor: Prof. Haikun Zhao_
+**09/2019–06/2022	    M.S. in Meteorology, Nanjing University of Information Science and Technology (NUIST), Nanjing, China** <br>               Advisor: Prof. Haikun Zhao
 
-09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China <br>                               _Advisor: Prof. Song Yang_
+**09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China** <br>                               Advisor: Prof. Song Yang
 
-11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK <br>              _Co-advisor: Dr. Kevin Hodges (Principal Research Fellow)_
+**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>              Co-advisor: Dr. Kevin Hodges (Principal Research Fellow)
 
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
