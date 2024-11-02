@@ -27,7 +27,7 @@ redirect_from:
 <font color=grey>Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from </font> <font color=Blue>Cai et al. (2023)</font> <font color=grey>)</font>
 
 - **On going work:**
-  The variation of tropical cyclone seasonality;
+  The variation of tropical cyclone seasonality; <br>
   Environmental conditions governing the decadal variation of SCS TC genesis.
 
 Last modified: 24/07/2024
