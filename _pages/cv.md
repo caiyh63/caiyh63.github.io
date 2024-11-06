@@ -46,13 +46,13 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-11/2022		Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences, Nanjing, China; _Oral presentation in virtual_
+11/2022		**Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences**, Nanjing, China; _Oral presentation in virtual_
 
-07/2023		Asia Oceania Geosciences Society 20th annual meeting (AOGS2023), Singapore; _Oral presentation_
+07/2023		**Asia Oceania Geosciences Society 20th annual meeting (AOGS2023)**, Singapore; _Oral presentation_
 
-11/2023		The Chengdu Forum of Multi-scale Sea-land-Air Interaction and its Weather and Climate Impact, Chengdu, China; _Oral presentation_
+11/2023		**The Chengdu Forum of Multi-scale Sea-land-air Interaction and Its Weather and Climate Impact**, Chengdu, China; _Oral presentation_
 
-01/2024		American Meteorological Society 104th Annual Meeting (AMS2024), Baltimore, MD, the U.S.; _Poster presentation_ 
+01/2024		**American Meteorological Society 104th Annual Meeting (AMS2024)**, Baltimore, MD, the U.S.; _Poster presentation_ 
 
   
 ##  👨🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -61,7 +61,6 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 2019–2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: Synoptic-Dynamic meteorology; Re-examination items
 
-Project: Synoptic and Dynamic Meteorology; Re-examination Items
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
