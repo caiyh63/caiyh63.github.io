@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. 
+👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. <br>
 👨🏻‍💻 Now an acdamic vistor at Dept. of Meteorology, University of Reading. 
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
-📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong, 519082, China
+📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong, 519082, China <br>
 📃 Now in Rm 3L69, Brain Hoskin Building, University of Reading, Earley gate, Whiteknights Rd, Reading, RG6 6ET, UK
 
 
