@@ -12,4 +12,4 @@ redirect_from:
 
 ![AOGS2023](/images/mmexport1691238112499.jpg) <br>
 
-**Group Photo of AOGS2023, Singapore @Prof. Yang's team**
+**Group Photo of AOGS2023, Singapore @Prof. Yang's team**    -- Aug. 2023
