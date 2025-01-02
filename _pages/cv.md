@@ -59,7 +59,7 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
 2019–2022 Guidance of  professional coures for postgraduate examination in GRID meteorology (格点气象)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: Synoptic-Dynamic meteorology; Re-examination items
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project: Synoptic & dynamic Meteorology; Re-examination items
 
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
