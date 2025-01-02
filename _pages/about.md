@@ -12,8 +12,8 @@ redirect_from:
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
-📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong, 519082, China <br>
-📃 Now in Rm 3L69, Brain Hoskin Building, University of Reading, Earley gate, Whiteknights Rd, Reading, RG6 6ET, UK
+📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong Province, 519082, China <br>
+📃 Now in Rm 3L69, Brain Hoskin Building, University of Reading, Earley Gate, Whiteknights Rd, Reading, RG6 6ET, UK
 
 
 ## News
