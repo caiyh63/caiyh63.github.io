@@ -46,13 +46,13 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-11/2022		**Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences**, Nanjing, China; _Oral presentation in virtual_
-
-07/2023		**Asia Oceania Geosciences Society 20th annual meeting (AOGS2023)**, Singapore; _Oral presentation_
+01/2024		**American Meteorological Society 104th Annual Meeting (AMS2024)**, Baltimore, MD, U.S.; _Poster presentation_ 
 
 11/2023		**The Chengdu Forum of Multi-scale Sea-land-air Interaction and Its Weather and Climate Impact**, Chengdu, China; _Oral presentation_
 
-01/2024		**American Meteorological Society 104th Annual Meeting (AMS2024)**, Baltimore, MD, the U.S.; _Poster presentation_ 
+07/2023		**Asia Oceania Geosciences Society 20th annual meeting (AOGS2023)**, Singapore; _Oral presentation_
+
+11/2022		**Yangtze River Delta University Graduate Student Forum on Atmospheric Sciences**, Nanjing, China; _Oral presentation in virtual_
 
   
 ##  👨🏻‍🏫 <span style="color:#1E90FF">Teaching</span>
@@ -74,5 +74,5 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
 ## 💴 <span style="color:#1E90FF">Research Funding</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-2024  Joint Ph.D. Training Program, China Scholarship Council
+2024  Joint Ph.D. Training Program (UoR), China Scholarship Council (File No. 202406380269)
 
