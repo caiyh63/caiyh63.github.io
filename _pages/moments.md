@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Group Photo of AMS2024, Baltimore @Prof. Yang's team**    -- Jan. 2024 <br>
+**Group Photo of AMS2024, Baltimore @Prof. Yang's team </h2>**    -- Jan. 2024 <br>
 
 ![AMS2024](/images/ST.jpg) <br>
 
