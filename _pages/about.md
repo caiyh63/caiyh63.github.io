@@ -8,19 +8,27 @@ redirect_from:
 ---
 
 👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. <br>
-👨🏻‍💻 Now an acdamic vistor at Dept. of Meteorology, University of Reading. 
+
+👨🏻‍💻 Now I'm also an acdamic vistor at Dept. of Meteorology, University of Reading. 
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong Province, 519082, China <br>
+
 📃 Now in Rm 3L69, Brain Hoskin Building, University of Reading, Earley Gate, Whiteknights Rd, Reading, RG6 6ET, UK
 
 
 ## News
 
+201/2025 Congretulations on the acceptance of manuscript "Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon" in _Environ. Res. Lett._
+
 07/2024  Congratulations on obtaining the CSC scholarship
 
 ## Recent Reasearch Progress
+
+- **Decadal Variation of SCS tropical cyclogenesis tend to be controlled by the ISO activity in summer:** Although a new dynamic potential index improves the representation of long-term change in tropical cyclogenesis, especially in the western North Pacific, it still exhibits low skill in depicting the tropical cyclogenesis over the sub-basin; that is South China Sea (SCS). Decadal increase in genesis frequency of tropical cyclones (TCGF) corresponds to unfavorable environmental fields for seasonal mean scale, whereas corresponds to favorable conditions for Intraseasonal scale. Further analysis reveals that  the anomalous upper-level cyclonic circulation over East Asia and the lower-level anticyclonic circulation over the western Pacific produce the unfavorable seasonal mean environmental fields in the SCS, while the lower-level southerly anomalies, at the west flank of anticyclonic circulation, promote the more northward development of Intraseasonal Oscillation over the SCS, which is beneficial to the tropical cyclogenesis on decadal timescale.  
+
+![Cai-2025-Fig6](/images/Fig6-ERL.jpg)
 
 - **Possible mechanism of interaction between tropical SST variability and land surface processes to influence typhoon activity:** Tibetan Plateau snow depth has played an important role in weakening the correlation between rapidly intensifying tropical cyclones and tropical Indian Ocean sea surface temperatures (SST). Increased Tibetan Plateau snow depth (TPSD) promotes basinwide tropical Indian Ocean cooling through changes in geopotential heith anomalies and modulation of convection activity. In the following seasons, the weaker monsoon circulation associated with increase TPSD contributes to warm SST anomalies over the western Iindian Ocean, enhancingthe zonal contrast of Indian Ocean SST. The air-sea feedback process accelerates the growth of Indian Ocean Dipole during rapid intensification period The results of this study enhance understanding of changes in tropical cyclone intensity and have implications for seasonal forecasting of tropical cyclone  intensity over the western North Pacific basin.  This study also emphasizes the importance of Tibetan Plateau thermal forcing in atmosphere–ocean coupling.
 
@@ -30,9 +38,9 @@ redirect_from:
 
 - **On going work:** <br>
   a. The variation of tropical cyclone seasonality; <br>
-  b. Environmental conditions governing the decadal variation of SCS TC genesis.
+  b. Environmental conditions governing the decadal variation of SCS TC genesis. (Accepted in ERL)
 
-Last modified: 24/07/2024
+Last modified: 25/01/2025
 
 <p hidden>
   
