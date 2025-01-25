@@ -20,7 +20,7 @@ redirect_from:
 
 ## News
 
-201/2025 Congretulations on the acceptance of manuscript "Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon" in _Environ. Res. Lett._
+01/2025 Congretulations on the acceptance of manuscript "Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon" in _Environ. Res. Lett._
 
 07/2024  Congratulations on obtaining the CSC scholarship
 
