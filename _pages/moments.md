@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font size=5>Group Photo of AMS2024, Baltimore @Prof. Yang's team </font>    -- Jan. 2024 
+<font face="HEI" size=10>Group Photo of AMS2024, Baltimore @Prof. Yang's team </font>    -- Jan. 2024 
 
 ![AMS2024](/images/ST.jpg) <br>
 
