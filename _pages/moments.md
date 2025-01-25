@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<h2> Group Photo of AMS2024, Baltimore @Prof. Yang's team  </h2>   -- Jan. 2024 
-
-
+Group Photo of AMS2024, Baltimore @Prof. Yang's team     -- Jan. 2024 
 
 ![AMS2024](/images/ST.jpg) <br>
 
-<h2>Group Photo of AOGS2023, Singapore @Prof. Yang's team  </h2>   -- Aug. 2023
+Group Photo of AOGS2023, Singapore @Prof. Yang's team  -- Aug. 2023
 
 ![AOGS2023](/images/mmexport1691238112499.jpg) <br>
 
