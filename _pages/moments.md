@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-<font face="HEI" size=5>Group Photo of AMS2024, Baltimore @Prof. Yang's team</font>    -- Jan. 2024 
+<font face="HEI" size=5>Group Photo of AOGS2023, Singapore @Prof. Yang's team</font>   -- Aug. 2023
 
 ![AMS2024](/images/ST.jpg) <br>
 
