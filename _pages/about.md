@@ -20,6 +20,8 @@ redirect_from:
 
 ## News
 
+**02/2025** Congretulations on the acceptance of manuscript "Inhomogeneity of the seasonal distribution of tropical cyclogenesis over the western North Pacific associated with the out-of-phase change in genesis frequency between summer and autumn" in _Atmos. Res._
+
 **01/2025** Congretulations on the acceptance of manuscript "Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon" in _Environ. Res. Lett._
 
 **07/2024**  Congratulations on obtaining the CSC scholarship
