@@ -12,9 +12,9 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-1 **Cai, Y.**, S. Yang, W. Chen, J. Xu and J. Wang, 2025: The inhomogeneity of the seasonal distribution of tropical cyclogenesis over the western North Pacific associated with out-of-change in genesis frequency between summer and autumn _Atmos. Res._
+1 **Cai, Y.**, S. Yang, W. Chen, J. Xu and J. Wang, 2025: The inhomogeneity of the seasonal distribution of tropical cyclogenesis over the western North Pacific associated with out-of-change in genesis frequency between summer and autumn _Accepted in Atmos. Res._
 
-2 **Cai, Y.**, S. Yang, H. Wu, W. Chen and J. Xu, 2025: Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon _Environ. Res. Lett._
+2 **Cai, Y.**, S. Yang, H. Wu, W. Chen and J. Xu, 2025: Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon _Accepted in Environ. Res. Lett._
 
 ### <span style="color:#1E90FF; font-size:1.5em">2023</span> 
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
