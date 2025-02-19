@@ -36,20 +36,22 @@ redirect_from:
 
 ![Cai-2025-Fig6](/images/Fig6-ERL.jpg)
 
+
+
+- **On going work:** <br>
+  a. Climate change in tropical cyclone tracks based on extended track records; <br>
+
+
+Last modified: Feb 19, 2025
+
+<p hidden>
 - **Possible mechanism of interaction between tropical SST variability and land surface processes to influence typhoon activity:** Tibetan Plateau snow depth has played an important role in weakening the correlation between rapidly intensifying tropical cyclones and tropical Indian Ocean sea surface temperatures (SST). Increased Tibetan Plateau snow depth (TPSD) promotes basinwide tropical Indian Ocean cooling through changes in geopotential heith anomalies and modulation of convection activity. In the following seasons, the weaker monsoon circulation associated with increase TPSD contributes to warm SST anomalies over the western Iindian Ocean, enhancingthe zonal contrast of Indian Ocean SST. The air-sea feedback process accelerates the growth of Indian Ocean Dipole during rapid intensification period The results of this study enhance understanding of changes in tropical cyclone intensity and have implications for seasonal forecasting of tropical cyclone  intensity over the western North Pacific basin.  This study also emphasizes the importance of Tibetan Plateau thermal forcing in atmosphere–ocean coupling.
 
 ![Cai-2023-Fig13](/images/NJQX202401002_519.jpg)
 
 <font color=grey>Schematic for physical process under which the Tibetan Plateau snow depth affects the rapidly intensifying typhoons (cited from </font> <font color=Blue>Cai et al. (2023)</font> <font color=grey>)</font>
 
-- **On going work:** <br>
-  a. The variation of tropical cyclone seasonality (Accepted in AR); <br>
-  b. Environmental conditions governing the decadal variation of SCS TC genesis. (Accepted in ERL)
 
-Last modified: 09/02/2025
-
-<p hidden>
-  
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
