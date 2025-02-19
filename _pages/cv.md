@@ -18,7 +18,7 @@ redirect_from:
 
 **09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China** <br>                               Advisor: Prof. Song Yang
 
-**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>              Co-advisor: Dr. Kevin Hodges (Principal Research Fellow)
+**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>              Co-advisor: Drs. Kevin Hodges & Xiangbo Feng
 
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
