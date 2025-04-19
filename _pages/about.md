@@ -9,13 +9,13 @@ redirect_from:
 
 👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. <br>
 
-👨🏻‍💻 Now I'm also an acdamic vistor at Dept. of Meteorology, University of Reading. 
+👨🏻‍💻 Now I'm also an academic visitor at Dept. of Meteorology, University of Reading. 
 
 🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
 
 📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong Province, 519082, China <br>
 
-📃 Now in Rm 3L69, Brain Hoskin Building, University of Reading, Earley Gate, Whiteknights Rd, Reading, RG6 6ET, UK
+📃 Now in Rm 3L69, Brian Hoskin Building, University of Reading, Earley Gate, Whiteknights Rd, Reading, RG6 6ET, UK
 
 
 ## News
@@ -39,10 +39,10 @@ redirect_from:
 
 
 - **On going work:** <br>
-  a. Climate change in tropical cyclone tracks based on extended track records; <br>
+  a. 	Changes in distribution of tropical cyclones affecting the western North Pacific based on the extended track records; <br>
 
 
-Last modified: Feb 19, 2025
+Last modified: Apr 19, 2025
 
 <p hidden>
 - **Possible mechanism of interaction between tropical SST variability and land surface processes to influence typhoon activity:** Tibetan Plateau snow depth has played an important role in weakening the correlation between rapidly intensifying tropical cyclones and tropical Indian Ocean sea surface temperatures (SST). Increased Tibetan Plateau snow depth (TPSD) promotes basinwide tropical Indian Ocean cooling through changes in geopotential heith anomalies and modulation of convection activity. In the following seasons, the weaker monsoon circulation associated with increase TPSD contributes to warm SST anomalies over the western Iindian Ocean, enhancingthe zonal contrast of Indian Ocean SST. The air-sea feedback process accelerates the growth of Indian Ocean Dipole during rapid intensification period The results of this study enhance understanding of changes in tropical cyclone intensity and have implications for seasonal forecasting of tropical cyclone  intensity over the western North Pacific basin.  This study also emphasizes the importance of Tibetan Plateau thermal forcing in atmosphere–ocean coupling.
