@@ -18,10 +18,11 @@ redirect_from:
 
 **09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China** <br>                               Advisor: Prof. Song Yang
 
-**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>              Co-advisor: Drs. Kevin Hodges & Xiangbo Feng
+**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>             Co-advisor: Drs. Kevin Hodges & Xiangbo Feng
 
 ## 👨‍💻 <span style="color:#1E90FF">Research Interest</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 **Tropical Cyclone Climatology:**
 
 Seasonality of tropical cyclone activity; Variations of rapidly intensifying typhoon
@@ -29,6 +30,10 @@ Seasonality of tropical cyclone activity; Variations of rapidly intensifying typ
 **Tibetan Plateau:**	
 
 Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian climate
+
+**Monsoon and air-sea interactiion:**
+
+Monsoon circulation linked to sea suface temperature pattern and variation of tropical cyclone
 
   
 ## 🛠️ <span style="color:#1E90FF">Skills</span>
@@ -46,6 +51,11 @@ Thermal effect of Tibetan Plateau (snow, surface temperature) on East Asian clim
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
+06/2025		**Tropical group seminar**, UoR, Reading, UK; _Oral presentation_ (06-2025)
+
+04/2025	  **General Assembly 2025 of the European Geosciences Union (EGU2025)**, Vienna, Australia; _Poster presentation_ (04-2025)
+
 01/2024		**American Meteorological Society 104th Annual Meeting (AMS2024)**, Baltimore, MD, U.S.; _Poster presentation_ 
 
 11/2023		**The Chengdu Forum of Multi-scale Sea-land-air Interaction and Its Weather and Climate Impact**, Chengdu, China; _Oral presentation_
