@@ -10,6 +10,11 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+## <span style="color:#1E90FF">Submitted</span>
+<hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+Xu, J., H. Fan, S. Yang, Y. Cai, M. Collins and W. Yu, 2025: Seasonality of the South Pacific Meridional Mode: Role of oceanic meridional advective feedback.
+
+
 ## <span style="color:#1E90FF">2025</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 5 **Cai, Y.**, S. Yang, H. Wu, W. Chen and J. Xu, 2025: Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon. _Environ. Res. Lett._, **20**, 034026, https://doi.org/10.1088/1748-9326/adad89
@@ -28,7 +33,7 @@ author_profile: true
 
 1  **Cai, Y.**, X. Han, H. Zhao, P. J. Klotzbach, L. Wu, G. B. Raga, and C. Wang, 2022: Enhanced predictability of rapidly intensifying tropical cyclones over the western North Pacific associated with snow depth changes over the Tibetan Plateau. _J. Climate_, **35**, 2093–2110, https://doi.org/10.1175/jcli-d-21-0758.1.
 
-**Research Score** (From Google Scholar since 2019):<br> <u>Citation: 38</u>; <u>h-index: 2</u>; <u>i10-index:2</u>
+**Research Score** (From Google Scholar since 2019):<br> <u>Citation: 42</u>; <u>h-index: 2</u>; <u>i10-index:2</u>
 
 
-Update: Apr 19, 2025
+Update: July 17, 2025
