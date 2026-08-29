@@ -7,24 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I’m a PhD candidate at Sun Yat-sen University with major of Atmospheric Sciences. <br>
+👨🏻‍💻 I’m working at Hainan Climate Center on climate monitoring and prediction. <br>
 
-👨🏻‍💻 Now I'm also an academic visitor at Dept. of Meteorology, University of Reading. 
+🔬 My research interests lie in tropical cyclone activity.
 
-🔬 My research interests lie in tropical cyclone activity and land-ocean-atmosphere interaction.
-
-📃 Rm A522, Haiqin #2 Building, Sun Yat-sen University (Zhuhai Compus), 2 DaXue Rd, Xiangzhou, Zhuhai, Guangdong Province, 519082, China <br>
-
-📃 Now in Rm 3L69, Brian Hoskin Building, University of Reading, Earley Gate, Whiteknights Rd, Reading, RG6 6ET, UK
+📃 *** <br>
 
 
-## News
 
-**02/2025** Congretulations on the acceptance of manuscript "Inhomogeneity of the seasonal distribution of tropical cyclogenesis over the western North Pacific associated with the out-of-phase change in genesis frequency between summer and autumn" in _Atmos. Res._
-
-**01/2025** Congretulations on the acceptance of manuscript "Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon" in _Environ. Res. Lett._
-
-**07/2024**  Congratulations on obtaining the CSC scholarship
 
 ## Recent Reasearch Progress
 
