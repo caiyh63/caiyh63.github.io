@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## 👨‍💻 <span style="color:#1E90FF">Employment</span>
+<hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+**07/2026–06/2026	    Department of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
+
 ## 🏫 <span style="color:#1E90FF">Education</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-**09/2022–Present	    Ph.D. Candidate in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China** <br>                               Advisor: Prof. Song Yang
+**09/2022–06/2026	    Ph.D. in Atmospheric Sciences, Sun Yat-sen University (SYSU), Zhuhai, China** <br>                                         Advisor: Prof. Song Yang
 
-**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>             Co-advisor: Drs. Kevin Hodges & Xiangbo Feng
+**11/2024–11/2025	    Joint Ph.D. Student/Visiting Researcher, Dept. of Meteorology, University of Reading (UoR), Reading, UK** <br>             Co-advisors: Dr Kevin Hodges & Dr. Xiangbo Feng
 
 **09/2019–06/2022	    M.S. in Meteorology, Nanjing University of Information Science and Technology (NUIST), Nanjing, China** <br>               Advisor: Prof. Haikun Zhao
 
@@ -51,6 +55,7 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+12/2025   **The 10th “Marine Sharing” Simulated International Academic Forum**, SYSU, Zhuhai, China
 
 06/2025		**Tropical group seminar**, UoR, Reading, UK; _Oral presentation_ (06-2025)
 
@@ -74,6 +79,7 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+2026 The outstanding Ph.D. graduate student at School of Atmos. Sci., SYSU.
 
 2023 The outstanding post-graduate thesis @NUIST
 
