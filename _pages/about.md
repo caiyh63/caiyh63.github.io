@@ -32,7 +32,7 @@ redirect_from:
   a. 	Changes in distribution of tropical cyclones affecting the western North Pacific based on the extended track records; <br>
 
 
-Last modified: Apr 19, 2025
+Last modified: Aug 29, 2026
 
 <p hidden>
 - **Possible mechanism of interaction between tropical SST variability and land surface processes to influence typhoon activity:** Tibetan Plateau snow depth has played an important role in weakening the correlation between rapidly intensifying tropical cyclones and tropical Indian Ocean sea surface temperatures (SST). Increased Tibetan Plateau snow depth (TPSD) promotes basinwide tropical Indian Ocean cooling through changes in geopotential heith anomalies and modulation of convection activity. In the following seasons, the weaker monsoon circulation associated with increase TPSD contributes to warm SST anomalies over the western Iindian Ocean, enhancingthe zonal contrast of Indian Ocean SST. The air-sea feedback process accelerates the growth of Indian Ocean Dipole during rapid intensification period The results of this study enhance understanding of changes in tropical cyclone intensity and have implications for seasonal forecasting of tropical cyclone  intensity over the western North Pacific basin.  This study also emphasizes the importance of Tibetan Plateau thermal forcing in atmosphere–ocean coupling.
