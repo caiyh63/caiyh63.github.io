@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome~"
+title: "Welcome to Dr. Cai's homepage"
 author_profile: true
 redirect_from: 
   - /about/
