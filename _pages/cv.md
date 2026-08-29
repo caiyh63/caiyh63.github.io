@@ -11,6 +11,7 @@ redirect_from:
 
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 **07/2026–06/2026	    Department of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
@@ -55,6 +56,7 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
   
 ## 👨🏻‍ <span style="color:#1E90FF">Conference Presentation</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 12/2025   **The 10th “Marine Sharing” Simulated International Academic Forum**, SYSU, Zhuhai, China
 
 06/2025		**Tropical group seminar**, UoR, Reading, UK; _Oral presentation_ (06-2025)
@@ -79,6 +81,7 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
   
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 2026 The outstanding Ph.D. graduate student at School of Atmos. Sci., SYSU.
 
 2023 The outstanding post-graduate thesis @NUIST
