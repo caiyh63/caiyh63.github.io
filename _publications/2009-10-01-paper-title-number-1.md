@@ -41,7 +41,7 @@ author_profile: true
 
 1.  **Cai, Y.**, X. Han, H. Zhao, P. J. Klotzbach, L. Wu, G. B. Raga, and C. Wang, 2022: Enhanced predictability of rapidly intensifying tropical cyclones over the western North Pacific associated with snow depth changes over the Tibetan Plateau. _J. Climate_, **35**, 2093–2110, https://doi.org/10.1175/jcli-d-21-0758.1.
 
-**Research Score** (From Google Scholar since 2019):<br> <u>Citation: 51</u>; <u>h-index: 3</u>; <u>i10-index:2</u>
+**Research Score** (From Google Scholar since 2019):<br> <u>Citation: 70</u>; <u>h-index: 3</u>; <u>i10-index:2</u>
 
 
-Update: Aug. 28, 2025
+Update: Aug. 30, 2026
