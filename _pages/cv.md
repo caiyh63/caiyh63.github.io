@@ -12,7 +12,7 @@ redirect_from:
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-**07/2026–06/2026	    Department of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
+**07/2026–	          Department of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
