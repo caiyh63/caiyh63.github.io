@@ -23,8 +23,7 @@ author_profile: true
 
 ### <span style="color:#1E90FF; font-size:1.5em">2025</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-[6] Xu, J., H. Fan*, S. Yang, **Y. Cai**, M. Collins, and W. Yu, 2025: Seasonality of the South Pacific Meridional Mode: Role of oceanic meridional advection feedback beyond thermodynamics dominance. Geophys. Res. Lett., 52, e2025GL117920, https://doi.org/10.1029/
-2025GL117920
+[6] Xu, J., H. Fan*, S. Yang, **Y. Cai**, M. Collins, and W. Yu, 2025: Seasonality of the South Pacific Meridional Mode: Role of oceanic meridional advection feedback beyond thermodynamics dominance. Geophys. Res. Lett., 52, e2025GL117920, https://doi.org/10.1029/2025GL117920
 
 [5] **Cai, Y.**, S. Yang, H. Wu, W. Chen and J. Xu, 2025: Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon. _Environ. Res. Lett._, **20**, 034026, https://doi.org/10.1088/1748-9326/adad89
 
