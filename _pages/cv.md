@@ -12,7 +12,7 @@ redirect_from:
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-**07/2026–	          Department of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
+**07/2026–	          Sector of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
@@ -82,11 +82,11 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
 ## 🏅 <span style="color:#1E90FF">Awards and Honors</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-2026 The outstanding Ph.D. graduate student at School of Atmos. Sci., SYSU.
+2026 The excellent Ph.D. graduate student @ School of Atmos. Sci., SYSU.
 
-2023 The outstanding post-graduate thesis @NUIST
+2023 The excellent post-graduate thesis @ NUIST
 
-2022 The first prize of the third graduate innovation achievement exhibition @NUIST
+2022 The first prize of the third graduate innovation achievement exhibition @ NUIST
 
 2019 The second prize of the China post-graduate mathematical modeling contest
 
