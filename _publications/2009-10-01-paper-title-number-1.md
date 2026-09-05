@@ -12,10 +12,12 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 **Cai, Y.**, X. Feng, K. Hodges, H. Wu, S. Yang* and C.-H. Ho. An emerging threat to East Asia posed by long-traveled tropical cyclones.
 
 ### <span style="color:#1E90FF; font-size:1.5em">2026</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
+
 [8] Luo, H., H. Zhao*, **Y. Cai**, S. Li, and C. Shi. Impacts of Late-Winter Snow Cover Anomalies over the Tibetan Plateau on Western North Pacific Late-Spring Tropical Cyclone Tracks and Associated Mechanisms. Transactions of Atmospheric Sciences, Accepted. (In Chinese with English Abstract: 罗浩洋, 赵海坤, 蔡宇昊, 李双行, 施春华. 青藏高原晚冬积雪异常对西北太平洋晚春热带气旋路径的影响及其成因. 大气科学学报, 已录用)
 
 [7] Shi, H., Z. Wang*, P. Lai, M. Ke, H. Luo, W. Yu, **Y. Cai**, and S. Yang, 2026: Understanding the interdecadal change in the tropical Asian summer monsoon onset timing: A perspective from the basin-scale shifting of Indo-Pacific warming pattern. Sci. China. Earth Sci., in press.
@@ -23,8 +25,8 @@ author_profile: true
 
 ### <span style="color:#1E90FF; font-size:1.5em">2025</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-[6] Xu, J., H. Fan*, S. Yang, **Y. Cai**, M. Collins, and W. Yu, 2025: Seasonality of the South Pacific Meridional Mode: Role of oceanic meridional advection feedback beyond thermodynamics dominance. Geophys. Res. Lett., 52, e2025GL117920, https://doi.org/10.1029/2025GL117920
 
+[6] Xu, J., H. Fan*, S. Yang, **Y. Cai**, M. Collins, and W. Yu, 2025: Seasonality of the South Pacific Meridional Mode: Role of oceanic meridional advection feedback beyond thermodynamics dominance. Geophys. Res. Lett., 52, e2025GL117920, https://doi.org/10.1029/2025GL117920
 
 [5] **Cai, Y.**, S. Yang, H. Wu, W. Chen and J. Xu, 2025: Environmental features related to the decadal variation of South China Sea tropical cyclogenesis in the context of summer monsoon. _Environ. Res. Lett._, **20**, 034026, https://doi.org/10.1088/1748-9326/adad89
 
