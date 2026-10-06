@@ -12,7 +12,7 @@ redirect_from:
 ## 👨‍💻 <span style="color:#1E90FF">Employment</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
-**07/2026– &nbsp;&nbsp;&nbsp;Sector of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
+**07/2026– &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sector of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
 
 **09/2026–08/2027	    _Visiting Scholar_ at Xiongan Institute of Meteorological Artificial Intelligence** <br> 
 
