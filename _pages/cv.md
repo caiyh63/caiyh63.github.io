@@ -14,7 +14,7 @@ redirect_from:
 
 **07/2026–	          Sector of Climate Prediction, Hainan Climate Center, Hainan Meteorology Bureau, Haikou, China** <br> 
 
-**09/2026–08/2027	    ___Visiting Scholar___ at Xiongan Institute of Meteorological Artificial Intelligence** <br> 
+**09/2026–08/2027	    _Visiting Scholar_ at Xiongan Institute of Meteorological Artificial Intelligence** <br> 
 
 ## 🏫 <span style="color:#1E90FF">Education</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
