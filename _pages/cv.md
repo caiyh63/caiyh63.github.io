@@ -95,5 +95,7 @@ Monsoon circulation linked to sea suface temperature pattern and variation of tr
 ## 💴 <span style="color:#1E90FF">Research Funding</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
+2026  Shanghai Typhoon Research Foundation (TFJJ202607)
+
 2024  Joint Ph.D. Training Program (UoR), China Scholarship Council (File No. 202406380269)
 
