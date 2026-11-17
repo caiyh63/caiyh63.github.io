@@ -9,14 +9,14 @@ redirect_from:
 
 👨🏻‍💻 I’m employing at Hainan Climate Center on climate monitoring and prediction. <br>
 
-👨🏻‍💻 Now I’m visiting at Xiongan Institute of Meteorological Artificial Intelligence, working for AI downscaling technique. <br>
+👨🏻‍💻 Now I’m visiting at Xiongan Institute of Meteorological Artificial Intelligence, working for AI downscaling technique applied to AI-powered CSM of Fengshun <br>
 
 🔬 My research interests also lie in tropical cyclone activity.
 
 📃 Contact Address:  <br>
     **Now @@** Rm 411, Xiongan Institude of Meteorological Aritificial Intelligence, Xiongan Innovation Institude Park, Xiong'an New Area, China <br>
     
-    Rm 305, Operation building of Hainan Meteorological Warning Center (Yongzhuang), 286 Nanhai Avenue, Haikou, China
+    Rm 305, Operation building of Hainan Meteorological Warning Center (Yongzhuang), 286 Nanhai Avenue, Haikou, China <br>
 
 
 
