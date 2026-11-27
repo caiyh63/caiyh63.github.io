@@ -12,7 +12,6 @@ author_profile: true
 
 ## <span style="color:#1E90FF">Submitted</span>
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
-
 **Cai, Y.**, X. Feng, K. Hodges, H. Wu, S. Yang* and C.-H. Ho. Cyclones of tropical origin from the remote ocean are increasing near East Asia.
 
 Xu, J., H. Fan*, M. Collins, S. Yang, **Y. Cai**, W. Yu, Z. Tang, X. Wang, D. Wang. Weakened tropical Pacific control reshapes the dynamics of South Pacific Oscillation and its link to Antarctic sea ice.
