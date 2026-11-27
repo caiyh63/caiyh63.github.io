@@ -14,7 +14,9 @@ author_profile: true
 <hr style="border: none; background-color: #1E90FF; height: 2px;"/>
 
 **Cai, Y.**, X. Feng, K. Hodges, H. Wu, S. Yang* and C.-H. Ho. Cyclones of tropical origin from the remote ocean are increasing near East Asia.
+
 Xu, J., H. Fan*, M. Collins, S. Yang, **Y. Cai**, W. Yu, Z. Tang, X. Wang, D. Wang. Weakened tropical Pacific control reshapes the dynamics of South Pacific Oscillation and its link to Antarctic sea ice.
+
 Chen, W. **Y. Cai**, J.-E. Chu, K. Deng, H. Fan*, B. P. Horton, C.-H. Ho, Z. Wu, S. Yang, D.-L. Zhang. Unprecedented 2025 South China Sea coastal tropical cyclone activity forced by concurrent North Pacific–Maritime Continent warmings.
 
 ### <span style="color:#1E90FF; font-size:1.5em">2026</span>
